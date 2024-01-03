@@ -1,0 +1,8 @@
+openai==0.28
+pandas
+psycopg2-binary
+sqlalchemy
+matplotlib
+scikit-learn
+numpy
+prometheus_client
