@@ -23,7 +23,17 @@ generative AI and accurate performance validation.
 We implemented the coefficient of determination (R²) to evaluate our model's ability to predict object
 points and estimated effort accurately. The score provides insights into the goodness of fit between
 predicted and actual values. A higher R² indicates a better model fit.
+
 The R² scores achieved in our analysis reflect a high level of accuracy in our model predictions.
 Object Points - R² Score: 0.940763681596664
 Estimated Effort - R² Score: 0.9697761036280876
+
+### Our code generates scatter plots, which visualize the relationship between actual and predicted values for both object points and estimated effort, providing an assessment of our model's performance
+
+![image](https://github.com/BhavyaChawlaGit/Generative-AI-for-Cost-Estimation-in-Project-Planning/assets/112718303/7507bacd-a204-4cc3-b88e-12a580268420)
+
+
+![image](https://github.com/BhavyaChawlaGit/Generative-AI-for-Cost-Estimation-in-Project-Planning/assets/112718303/08b14776-9ec3-4e4e-8530-1efe843c50c7)
+
+
 
