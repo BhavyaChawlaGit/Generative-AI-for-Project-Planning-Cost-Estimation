@@ -40,6 +40,14 @@ It ensure the reliability of our system, we have integrated Prometheus for monit
 calls, as also taught in the course. Prometheus enabled real-time tracking of key metrics, such as response
 time, error counts, API calls, and the count of SQL queries.
 
+![image](https://github.com/BhavyaChawlaGit/Generative-AI-for-Cost-Estimation-in-Project-Planning/assets/112718303/0e86dfd4-64b6-44e7-a739-9268703f5eab)
+
+![image](https://github.com/BhavyaChawlaGit/Generative-AI-for-Cost-Estimation-in-Project-Planning/assets/112718303/7843777f-2ac0-48d0-9749-965aec067907)
+
+
+
+
+
 
 
 
