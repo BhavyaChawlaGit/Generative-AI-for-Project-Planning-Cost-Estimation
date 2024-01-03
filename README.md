@@ -1,3 +1,5 @@
+#The use of generative AI to generate estimates for the project plan, design document, source code, test plan and test cases, and user API documentation
+##Problem Statement
 The purpose of this project is to use generative AI capabilities (GPT-3 from OpenAI to improve the
 automation of project management tasks. It includes fully integrating a PostgreSQL database and
 functioning as a repository for project data that we got from the SEERA Software Cost Estimation
@@ -15,4 +17,13 @@ estimated durations and the actual durations derived from the SEERA dataset. Thi
 essential evaluation method, confirming the reliability and applicability of our generative AI model.
 Our project seeks to go beyond the standard models of project management, providing a fusion of
 generative AI and accurate performance validation.
+
+##Results
+###R² Score
+We implemented the coefficient of determination (R²) to evaluate our model's ability to predict object
+points and estimated effort accurately. The score provides insights into the goodness of fit between
+predicted and actual values. A higher R² indicates a better model fit.
+The R² scores achieved in our analysis reflect a high level of accuracy in our model predictions.
+Object Points - R² Score: 0.940763681596664
+Estimated Effort - R² Score: 0.9697761036280876
 
