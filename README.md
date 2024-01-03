@@ -25,8 +25,8 @@ points and estimated effort accurately. The score provides insights into the goo
 predicted and actual values. A higher R² indicates a better model fit.
 
 The R² scores achieved in our analysis reflect a high level of accuracy in our model predictions.  
-Object Points - R² Score: 0.940763681596664  
-Estimated Effort - R² Score: 0.9697761036280876  
+**Object Points - R² Score: 0.940763681596664**    
+**Estimated Effort - R² Score: 0.9697761036280876**   
 
 ### Our code generates scatter plots, which visualize the relationship between actual and predicted values for both object points and estimated effort, providing an assessment of our model's performance
 
@@ -34,6 +34,15 @@ Estimated Effort - R² Score: 0.9697761036280876
 
 
 ![image](https://github.com/BhavyaChawlaGit/Generative-AI-for-Cost-Estimation-in-Project-Planning/assets/112718303/08b14776-9ec3-4e4e-8530-1efe843c50c7)
+
+## Monitoring with Prometheus
+It ensure the reliability of our system, we have integrated Prometheus for monitoring OpenAI GPT-3 API
+calls, as also taught in the course. Prometheus enabled real-time tracking of key metrics, such as response
+time, error counts, API calls, and the count of SQL queries.
+
+
+
+
 
 
 
